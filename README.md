@@ -5,9 +5,7 @@
 
 <html>
 <head>
-<style>
 h1
-</style>
 </head>
 <body>
 <table>

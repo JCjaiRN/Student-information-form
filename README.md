@@ -6,10 +6,7 @@
 <html>
 <head>
 <style>
-
 h1
-  { <p style="text-decoration:  color:blue ;background-color:black ; ">
-  }
 </style>
 </head>
 <body>
